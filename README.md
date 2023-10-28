@@ -26,7 +26,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Now head over to the routes below to see the steps I have demonstrated in [this article]()
+Now head over to the routes below to see the steps I have demonstrated in [this article](https://simon-ugorji.medium.com/4-ways-to-add-css-styles-to-your-nextjs-project-6cde9136d7ea)
 
 - [/step1](http://localhost:3000/step1)
 - [/step2](http://localhost:3000/step2)
