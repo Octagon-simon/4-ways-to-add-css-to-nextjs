@@ -1,6 +1,6 @@
 ## The SUN
 
-[image here]
+![4 ways to add css to your nextjs project by Simon Ugorji](https://github.com/Octagon-simon/4-ways-to-add-css-to-nextjs/assets/68190998/de73e209-a038-470d-a780-645a73dd3aa7)
 
 ## Getting Started
 
